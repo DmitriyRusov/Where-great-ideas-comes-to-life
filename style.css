@@ -1,5 +1,5 @@
 html {
-    zoom: 100vw;
+    zoom: 80%;
     box-sizing: content-box;
     font-size: 16px;
 }
@@ -744,7 +744,7 @@ box-shadow: 0px 0px 20px #DBDBDB;
     left: 129px;
     top: 0px;
 
-    background-image: url(/Where-great-ideas-comes-to-life/images/works3.png);
+    background-image: url(./images/works3.png);
 }
 
 .lw-first-position {
@@ -824,7 +824,7 @@ box-shadow: 0px 0px 20px #DBDBDB;
     left: 0px;
     top: 0px;
 
-    background-image: url(/Where-great-ideas-comes-to-life/images/works2.png);
+    background-image: url(./images/works2.png);
 }
 
 .lw-scnd-rm {
@@ -890,7 +890,7 @@ box-shadow: 0px 0px 20px #DBDBDB;
     left: 129px;
     top: 0px;
 
-    background-image: url(/Where-great-ideas-comes-to-life/images/works1.png);
+    background-image: url(./images/works1.png);
 }
 
 .lw-third-position {
@@ -913,7 +913,7 @@ box-shadow: 0px 0px 20px #DBDBDB;
     left: 0px;
     top: 0px;
 
-    background-image: url(/Where-great-ideas-comes-to-life//images/works4.png);
+    background-image: url(./images/works4.png);
 }
 
 .lw-view {
@@ -983,15 +983,15 @@ box-shadow: 0px 0px 20px #DBDBDB;
 }
 
 .card1 {
-    background-image: url(/Where-great-ideas-comes-to-life/images/team1.png);
+    background-image: url(./images/team1.png);
 }
 .card2 {
-    background-image: url(/Where-great-ideas-comes-to-life/images/team2.png);
+    background-image: url(./images/team2.png);
     filter: grayscale(100%) contrast(175%);
     cursor: pointer;
 }
 .card3 {
-    background-image: url(/Where-great-ideas-comes-to-life/images/team3.png);
+    background-image: url(./images/team3.png);
 }
 
 .opened-card {
